@@ -1,0 +1,11 @@
+﻿#ignore these
+/.vs
+/.idea
+/lib
+/obj
+/bin
+/releases
+
+#but not these
+!/lib/readme.md
+!/releases/readme.md
